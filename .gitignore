@@ -1,0 +1,5 @@
+#Build do projeto
+/Runnable/*
+
+# Dependencias
+/node_modules
