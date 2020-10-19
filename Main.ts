@@ -4,11 +4,11 @@ import { Cedente, Sacado } from './src/Types/Cobranca';
 
 let Sacado: Sacado = {
     tipo: "FISICO",
-    CPFCNPJ: "09861654925",
+    CPFCNPJ: "00000000000",
     agencia: "12345",
     conta: "123456789",
-    nomeFantasia: "Davi Josoe Wollmann Souza",
-    razaoSocial: "Davi Josoe Wollmann Souza",
+    nomeFantasia: "Nome Fantasia da Empresa",
+    razaoSocial: "Razao Social da Empresa",
     nossoNumero: "12345678912",
 };
 
